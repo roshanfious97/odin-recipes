@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(rgb(194, 119, 20),rgb(213, 223, 161));
+}
+h1{
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+}
+img{
+   width: 700px;
+   margin-left: 600px;
+    margin-top:20px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+h2{
+    text-transform: uppercase;
+}
+span,li{
+    font-size: 20px;
+}
